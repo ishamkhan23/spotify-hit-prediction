@@ -61,6 +61,4 @@ Incorporate regional charts to test global applicability.
 
 Develop interactive dashboards for A&R teams to explore clusters and seasonality in real time.
 
-License
 
-This project is shared under the MIT License.
